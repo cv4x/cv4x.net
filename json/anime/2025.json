@@ -81,14 +81,71 @@
   },
   "_春": {
     "schedule": {
-      "日": [],
-      "月": [],
-      "火": [],
-      "水": [],
-      "木": [],
-      "金": [],
-      "土": [],
-      "❓": []
+      "日": [
+        "❓0900 Witch Watch",
+        "❓1530 Go! Go! Loser Ranger! Season 2"
+      ],
+      "月": [
+        "❓1500 My Hero Academia: Vigilantes",
+        "❓1600 Kijin Gentoushou"
+      ],
+      "火": [
+        "❓1530 Aru Majo ga Shinu Made"
+      ],
+      "水": [
+        "❓1430 Hana-Doll*: Reinterpretation of Flowering",
+        "❓1545 Your Forma"
+      ],
+      "木": [
+        "❓1530 The Brilliant Healer's New Life in the Shadows",
+        "❓1556 Rock wa Lady no Tashinami deshite"
+      ],
+      "金": [
+        "❓1530 Bye Bye, Earth Season 2"
+      ],
+      "土": [
+        "❓0100 Oshiri Tantei 9th Season",
+        "❓0930 Shin Samurai-den Yaiba",
+        "❓1025 Anne Shirley",
+        "❓1330 I've Been Killing Slimes for 300 Years and Maxed Out My Level Season 2",
+        "❓1430 Guilty Gear Strive: Dual Rulers",
+        "❓1530 From Old Country Bumpkin to Master Swordsman",
+        "❓1800 Ore wa Seikan Kokka no Akutoku Ryoushu!"
+      ],
+      "❓": [
+        "❓???? Aharen-san wa Hakarenai Season 2",
+        "❓???? Araiguma Calcal-dan",
+        "❓???? Black Butler: Emerald Witch Arc",
+        "❓???? Classic★Stars",
+        "❓???? Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
+        "❓???? Everyday Host",
+        "❓???? Fire Force Season 3",
+        "❓???? Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
+        "❓???? Kaijuu Sekai Seifuku (TV)",
+        "❓???? Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi",
+        "❓???? Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru",
+        "❓???? Kowloon Generic Romance",
+        "❓???? Lazarus",
+        "❓???? Masuda Kousuke Gekijou: Gag Manga Biyori Go",
+        "❓???? Miru: Paths to My Future",
+        "❓???? Ninja to Koroshiya no Futarigurashi",
+        "❓???? Nmeneko",
+        "❓???? Princession Orchestra",
+        "❓???? Rainbow Bubblegem 2: Secret",
+        "❓???? Sai-Kyo-Oh! Zukan: The Ultimate Tournament",
+        "❓???? Shoshimin: How to Become Ordinary Season 2",
+        "❓???? Summer Pockets",
+        "❓???? Teogonia",
+        "❓???? The Beginning After the End",
+        "❓???? The Catcher in the Ballpark!",
+        "❓???? The Children of Shiunji Family",
+        "❓???? The Dinner Table Detective",
+        "❓???? The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries",
+        "❓???? Uchuujin Muumuu",
+        "❓???? Uma Musume: Cinderella Gray",
+        "❓???? Wind Breaker Season 2",
+        "❓???? Zatsu Tabi: That's Journey"
+      ]
     }
   },
   "_夏": {
