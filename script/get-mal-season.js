@@ -9,7 +9,7 @@ if (process.argv.length < 4) {
 require('dotenv').config();
 const MAL_CLIENT_ID = process.env.MAL_CLIENT_ID;
 const BASE_URL = "https://api.myanimelist.net/v2";
-const FIELDS = '?fields=id,title,main_picture,alternative_titles,start_date,media_type,status,num_episodes,start_season,broadcast,source,average_episode_duration,studios';
+const FIELDS = '?fields=id,title,main_picture,alternative_titles,average_episode_duration,broadcast,genres,media_type,num_episodes,start_date,start_season,status,studios,source';
 
 getSeasonalAnime(process.argv[2], process.argv[3]).catch(e => console.error(e));
 
@@ -35,7 +35,10 @@ async function getSeasonalAnime(year, season) {
     }
 
     const responses = await Promise.all(promises);
-    const schedule = makeSchedule(responses.filter(anime => anime.media_type === "tv").map(mapDetails));
+    const schedule = makeSchedule(responses.filter(anime =>
+        anime.media_type === "tv" &&
+        !anime.genres.some(g => g.name === "Kids"))
+        .map(mapDetails));
 
     const filename = `${year}-${season}.json`;
     fs.writeFileSync(filename, JSON.stringify(schedule, null, 2));
