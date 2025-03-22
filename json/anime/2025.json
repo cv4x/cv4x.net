@@ -86,9 +86,10 @@
         "❓0130 Himitsu no AiPri: Ring-hen",
         "❓0830 Uma Musume: Cinderella Gray",
         "❓0900 Witch Watch",
-        "❓1400 Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi",
+        "❓1400 The Unaware Atelier Meister",
         "❓1530 Go! Go! Loser Ranger! Season 2",
-        "❓1530 Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru"
+        "❓1530 The Gorilla God's Go-To Girl",
+        "❓1545 Lazarus"
       ],
       "月": [
         "❓1400 Aharen-san wa Hakarenai Season 2",
@@ -99,30 +100,33 @@
         "❓1730 The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries"
       ],
       "火": [
-        "❓1430 The Children of Shiunji Family",
-        "❓1530 Aru Majo ga Shinu Made",
-        "❓1600 The Catcher in the Ballpark!",
-        "❓1629 Kidou Senshi Gundam: GQuuuuuuX"
+        "❓1355 Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku",
+        "❓1430 The Shiunji Family Children",
+        "❓1530 Once Upon a Witch's Death",
+        "❓1600 Catch Me at the Ballpark!",
+        "❓1629 Mobile Suit Gundam: GQuuuuuuX"
       ],
       "水": [
         "❓1430 Hana-Doll*: Reinterpretation of Flowering",
         "❓1530 The Beginning After the End",
         "❓1545 Your Forma",
-        "❓1600 Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru",
+        "❓1600 The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom",
         "❓1600 Uchuujin MuuMuu",
         "❓1830 Miru: Paths to My Future"
       ],
       "木": [
-        "❓1430 Ninja to Koroshiya no Futarigurashi",
+        "❓1430 A Ninja and an Assassin Under One Roof",
         "❓1530 The Brilliant Healer's New Life in the Shadows",
-        "❓1556 Rock wa Lady no Tashinami deshite",
+        "❓1556 Rock Is a Lady's Modesty",
         "❓1626 Wind Breaker Season 2",
+        "❓1654 Araiguma Calcal-dan",
         "❓1758 Nmeneko"
       ],
       "金": [
-        "❓1430 Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
+        "❓1430 Can a Boy-Girl Friendship Survive?",
         "❓1530 Bye Bye, Earth Season 2",
         "❓1530 The Dinner Table Detective",
+        "❓1530 Twins Hinahima",
         "❓1630 Teogonia",
         "❓1713 Everyday Host",
         "❓1753 Fire Force Season 3",
@@ -130,7 +134,7 @@
         "❓2300 Shibuya♡Hachi Part 3"
       ],
       "土": [
-        "❓0930 YAIBA: Samurai Legend",
+        "❓0930 Yaiba: Samurai Legend",
         "❓1025 Anne Shirley",
         "❓1330 I've Been Killing Slimes for 300 Years and Maxed Out My Level Season 2",
         "❓1430 Guilty Gear Strive: Dual Rulers",
@@ -140,25 +144,71 @@
         "❓1530 From Old Country Bumpkin to Master Swordsman",
         "❓1700 Classic★Stars",
         "❓1730 Shoshimin: How to Become Ordinary Season 2",
-        "❓1800 Ore wa Seikan Kokka no Akutoku Ryoushu!",
-        "❓1938 Twins Hinahima"
+        "❓1800 I'm the Evil Lord of an Intergalactic Empire!"
       ],
-      "❓": [
-        "❓???? Araiguma Calcal-dan",
-        "❓???? Lazarus"
-      ]
+      "❓": []
     }
   },
   "_夏": {
     "schedule": {
-      "日": [],
-      "月": [],
+      "日": [
+        "❓1530 Gachiakuta"
+      ],
+      "月": [
+        "❓1600 Sakamoto Days Part 2",
+        "❓1630 Grand Blue Dreaming Season 2"
+      ],
       "火": [],
-      "水": [],
+      "水": [
+        "❓1545 Jigoku Sensei Nube (2025)"
+      ],
       "木": [],
-      "金": [],
-      "土": [],
-      "❓": []
+      "金": [
+        "❓1500 Call of the Night Season 2"
+      ],
+      "土": [
+        "❓1530 Fermat no Ryouri"
+      ],
+      "❓": [
+        "❓???? Ame to Kimi to",
+        "❓???? Apocalypse Bringer Mynoghra",
+        "❓???? Bad Girl",
+        "❓???? Betrothed to My Sister's Ex",
+        "❓???? Busamen Gachi Fighter",
+        "❓???? Busu ni Hanataba wo.",
+        "❓???? Cardfight!! Vanguard: D Series Season 9",
+        "❓???? City The Animation",
+        "❓???? Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
+        "❓???? Cultural Exchange With a Game Centre Girl",
+        "❓???? Dan Da Dan Season 2",
+        "❓???? Dekin no Mogura",
+        "❓???? Ginga Tokkyuu Milky☆Subway",
+        "❓???? Harmony of Mille-Feuille",
+        "❓???? Hotel Inhumans",
+        "❓???? I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
+        "❓???? Kaiju No. 8 Season 2",
+        "❓???? Kaoru Hana wa Rin to Saku",
+        "❓???? Karaoke Iko!",
+        "❓???? Mizu Zokusei no Mahoutsukai",
+        "❓???? Muchuu sa, Kimi ni.",
+        "❓???? Nyaight of the Living Cat",
+        "❓???? Osomatsu-san 4th Season",
+        "❓???? Private Tutor to the Duke's Daughter",
+        "❓???? Rent-a-Girlfriend Season 4",
+        "❓???? Secrets of the Silent Witch",
+        "❓???? Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+        "❓???? Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu",
+        "❓???? Solo Camping for Two",
+        "❓???? The Rising of the Shield Hero Season 4",
+        "❓???? The Stunned Hero and the Assassin Princesses",
+        "❓???? The Summer Hikaru Died",
+        "❓???? Tougen Anki",
+        "❓???? Tsuyokute New Saga",
+        "❓???? Turkey!",
+        "❓???? Watari-kun no xx ga Houkai Sunzen",
+        "❓???? Welcome to the Outcast's Restaurant!",
+        "❓???? Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru"
+      ]
     }
   },
   "_秋": {
