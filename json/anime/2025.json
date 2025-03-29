@@ -84,72 +84,73 @@
       "日": [
         "❓0100 Princession Orchestra",
         "❓0130 Himitsu no AiPri: Ring-hen",
-        "❓0830 Uma Musume: Cinderella Gray",
-        "❓0900 Witch Watch",
-        "❓1400 The Unaware Atelier Meister",
-        "❓1530 Go! Go! Loser Ranger! Season 2",
-        "❓1530 The Gorilla God's Go-To Girl",
+        "📉0830 Uma Musume: Cinderella Gray",
+        "🟠0900 Witch Watch",
+        "🟠1400 The Unaware Atelier Meister",
+        "💫1530 Go! Go! Loser Ranger! Season 2",
+        "🟠1530 The Gorilla God's Go-To Girl",
         "❓1545 Lazarus"
       ],
       "月": [
         "❓1400 Aharen-san wa Hakarenai Season 2",
-        "❓1400 Zatsu Tabi: That's Journey",
-        "❓1500 My Hero Academia: Vigilantes",
-        "❓1530 Summer Pockets",
-        "❓1600 Sword of the Demon Hunter: Kijin Gentosho",
+        "🟠1400 Zatsu Tabi: That's Journey",
+        "🟠1500 My Hero Academia: Vigilantes",
+        "🟠1530 Summer Pockets",
+        "🟦1600 Sword of the Demon Hunter: Kijin Gentosho",
         "❓1730 The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries"
       ],
       "火": [
         "❓1355 Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku",
-        "❓1430 The Shiunji Family Children",
-        "❓1530 Once Upon a Witch's Death",
-        "❓1600 Catch Me at the Ballpark!",
-        "❓1629 Mobile Suit Gundam: GQuuuuuuX"
+        "🟠1430 The Shiunji Family Children",
+        "🟠1530 Once Upon a Witch's Death",
+        "🟠1600 Catch Me at the Ballpark!",
+        "💸1629 Mobile Suit Gundam: GQuuuuuuX"
       ],
       "水": [
+        "❓1159 Muzik Tiger In the Forest",
         "❓1430 Hana-Doll*: Reinterpretation of Flowering",
         "❓1530 The Beginning After the End",
         "❓1545 Your Forma",
-        "❓1600 The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom",
+        "🟠1600 The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom",
         "❓1600 Uchuujin MuuMuu",
         "❓1830 Miru: Paths to My Future"
       ],
       "木": [
-        "❓1430 A Ninja and an Assassin Under One Roof",
-        "❓1530 The Brilliant Healer's New Life in the Shadows",
-        "❓1556 Rock Is a Lady's Modesty",
-        "❓1626 Wind Breaker Season 2",
+        "🟠1430 A Ninja and an Assassin Under One Roof",
+        "🟠1530 The Brilliant Healer's New Life in the Shadows",
+        "🟦1556 Rock Is a Lady's Modesty",
+        "🟠1626 Wind Breaker Season 2",
         "❓1654 Araiguma Calcal-dan",
         "❓1758 Nmeneko"
       ],
       "金": [
-        "❓1430 Can a Boy-Girl Friendship Survive?",
-        "❓1530 Bye Bye, Earth Season 2",
-        "❓1530 The Dinner Table Detective",
-        "❓1530 Twins Hinahima",
-        "❓1630 Teogonia",
+        "🟠1430 Can a Boy-Girl Friendship Survive?",
+        "🟠1530 Bye Bye, Earth Season 2",
+        "💸1530 The Dinner Table Detective",
+        "🟠1630 Teogonia",
         "❓1713 Everyday Host",
-        "❓1753 Fire Force Season 3",
+        "🟠1753 Fire Force Season 3",
         "❓2300 Kaijuu Sekai Seifuku (TV)",
         "❓2300 Shibuya♡Hachi Part 3"
       ],
       "土": [
         "❓0930 Yaiba: Samurai Legend",
-        "❓1025 Anne Shirley",
-        "❓1330 I've Been Killing Slimes for 300 Years and Maxed Out My Level Season 2",
-        "❓1430 Guilty Gear Strive: Dual Rulers",
+        "🟠1025 Anne Shirley",
+        "🟠1330 I've Been Killing Slimes for 300 Years and Maxed Out My Level Season 2",
+        "🟠1430 Guilty Gear Strive: Dual Rulers",
         "❓1430 Masuda Kousuke Gekijou: Gag Manga Biyori Go",
         "❓1500 Kowloon Generic Romance",
-        "❓1530 Black Butler: Emerald Witch Arc",
-        "❓1530 From Old Country Bumpkin to Master Swordsman",
-        "❓1700 Classic★Stars",
-        "❓1730 Shoshimin: How to Become Ordinary Season 2",
-        "❓1800 I'm the Evil Lord of an Intergalactic Empire!"
+        "🟠1530 Black Butler: Emerald Witch Arc",
+        "💸1530 From Old Country Bumpkin to Master Swordsman",
+        "🟠1600 Mono",
+        "🟠1700 Classic★Stars",
+        "🟠1730 Shoshimin: How to Become Ordinary Season 2",
+        "🟠1800 I'm the Evil Lord of an Intergalactic Empire!"
       ],
       "❓": []
     }
   },
-  "_夏": {
+  "夏": {
     "schedule": {
       "日": [
         "❓1530 Gachiakuta"
