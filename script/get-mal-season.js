@@ -28,15 +28,17 @@ async function getSeasonalAnime(year, season) {
 
     console.info(url);
     const seasonResponse = await curl(url);
-
     const promises = [];
     for (const anime of seasonResponse.data) {
         promises.push(getAnimeDetails(anime.node.id));
     }
 
     const responses = await Promise.all(promises);
+    console.dir(responses.find(a => a.id === 59675), { depth: 999 })
+
     const schedule = makeSchedule(responses.filter(anime =>
         anime.media_type === "tv" &&
+        (typeof anime.average_episode_duration !== "number" || anime.average_episode_duration === 0 || anime.average_episode_duration > 1200) &&
         !anime.genres.some(g => g.name === "Kids"))
         .map(mapDetails));
 
@@ -103,7 +105,7 @@ function makeSchedule(allAnime) {
             if (anime.jst && Number(anime.jst.substring(0, 2)) < 8) {
                 i = (i + 6) % 7;
             }
-            day = daysJp[i];
+            day = daysJp[i] || day;
         }
         const time = jstToGmt(anime.jst);
         const out = `❓${time} ${anime.title}`;

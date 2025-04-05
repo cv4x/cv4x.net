@@ -49,6 +49,10 @@
                 src: '/img/emoji/adultswim.svg',
                 alt: 'Adult Swim'
             },
+            '🇸': {
+                src: '/img/emoji/samsungtv+.png',
+                alt: 'Samsung TV Plus'
+            },
             '❓': {
                 src: '/img/emoji/unknown.png'
             },
