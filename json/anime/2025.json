@@ -82,10 +82,9 @@
   "春": {
     "schedule": {
       "日": [
-        "❓0100 Princession Orchestra",
-        "❓0130 Himitsu no AiPri: Ring-hen",
         "🟠0830 Witch Watch",
         "📉0830 Uma Musume: Cinderella Gray",
+        "🟠1200 Shirohiyo - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
         "🟠1430 The Unaware Atelier Meister",
         "🟠1500 The Gorilla God's Go-To Girl",
         "🟠1515 Maebashi Witches",
@@ -95,11 +94,10 @@
       "月": [
         "🟦1230 Sword of the Demon Hunter: Kijin Gentosho",
         "🟠1315 Aharen-san wa Hakarenai Season 2",
-        "❓1400 Haigakura",
         "🟠1330 Zatsu Tabi: That's Journey",
         "🟠1500 Summer Pockets",
         "🟠1515 My Hero Academia: Vigilantes",
-        "❓1730 The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries"
+        "🟠1600 #Compass2.0: Animation Project"
       ],
       "火": [
         "🟠1400 The Shiunji Family Children",
@@ -109,14 +107,12 @@
         "🟠1900 Apocalypse Hotel"
       ],
       "水": [
-        "❓1430 Hana-Doll*: Reinterpretation of Flowering",
-        "❓1430 Our Last Crusade or the Rise of a New World Season 2",
+        "🟠1200 Lycoris Recoil -Friends are thieves of time.-",
+        "❌1430 Our Last Crusade or the Rise of a New World Season 2",
         "🟠1430 Please Put Them On, Takamine-san!",
         "🟠1530 The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom",
         "🇸1545 Your Forma",
-        "❓1600 Uchuujin MuuMuu",
-        "🟠1725 The Beginning After the End",
-        "❓1830 Miru: Paths to My Future"
+        "🟠1725 The Beginning After the End"
       ],
       "木": [
         "🟠1300 A Ninja and an Assassin Under One Roof",
@@ -130,8 +126,7 @@
         "💸1530 The Dinner Table Detective",
         "🟠1600 Teogonia",
         "🟠1615 The Apothecary Diaries Season 2",
-        "🟠1800 Fire Force Season 3",
-        "❓2300 Ninjala (TV)"
+        "🟠1800 Fire Force Season 3"
       ],
       "土": [
         "🟥0000 Cardfight!! Vanguard: Divinez Deluxe-hen",
@@ -148,57 +143,63 @@
         "🟠1700 Food for the Soul",
         "🟠1715 Classic★Stars",
         "🟠1800 Shoshimin: How to Become Ordinary Season 2",
-        "🟠1815 I'm the Evil Lord of an Intergalactic Empire!"
+        "🟠1815 I'm the Evil Lord of an Intergalactic Empire!",
+        "🟠0030 To Be Hero X"
       ],
-      "❓": [
-        "❓???? Shiawase Haitatsu Taneko"
-      ]
+      "❓": []
     }
   },
   "夏": {
     "schedule": {
       "日": [
         "❓0830 Jibaku Shounen Hanako-kun 2 2nd Season",
+        "❓1530 Busamen Gachi Fighter",
         "❓1530 Gachiakuta",
         "❓1600 City The Animation"
       ],
       "月": [
+        "❓1400 Dekin no Mogura",
+        "❓1500 Binan Koukou Chikyuu Bouei-bu Haikara!",
         "❓1600 Sakamoto Days Part 2",
         "❓1630 Grand Blue Dreaming Season 2"
       ],
       "火": [],
       "水": [
-        "❓1545 Hell Teacher: Jigoku Sensei Nube"
+        "❓1545 Hell Teacher: Jigoku Sensei Nube",
+        "❓1600 I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2"
       ],
       "木": [
+        "❓1400 Welcome to the Outcast's Restaurant!",
         "❓1626 Dan Da Dan Season 2",
         "❓1630 Solo Camping for Two"
       ],
       "金": [
-        "❓1500 Call of the Night Season 2"
+        "❓1500 Call of the Night Season 2",
+        "❓1530 Arknights: Rise from Ember"
       ],
       "土": [
         "❓1530 Fermat no Ryouri"
       ],
       "❓": [
+        "❓???? 9: Ruler's Crown",
+        "❓???? A Couple of Cuckoos Season 2",
         "❓???? Ame to Kimi to",
         "❓???? Apocalypse Bringer Mynoghra",
         "❓???? Bad Girl",
         "❓???? Betrothed to My Sister's Ex",
-        "❓???? Busamen Gachi Fighter",
         "❓???? Busu ni Hanataba wo.",
-        "❓???? Cardfight!! Vanguard: D Series Season 9",
+        "❓???? Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
         "❓???? Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
         "❓???? Cultural Exchange With a Game Centre Girl",
-        "❓???? Dekin no Mogura: The Earthbound Mole",
         "❓???? Dr. Stone: Science Future Part 2",
+        "❓???? Food Court de, Mata Ashita.",
         "❓???? Ginga Tokkyuu Milky☆Subway",
         "❓???? Harmony of Mille-Feuille",
         "❓???? Hotel Inhumans",
-        "❓???? I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
         "❓???? Kaiju No. 8 Season 2",
         "❓???? Kaoru Hana wa Rin to Saku",
         "❓???? Karaoke Iko!",
+        "❓???? Mattaku Saikin no Tantei to Kitara",
         "❓???? Mikadono Sanshimai wa Angai, Choroi.",
         "❓???? Mizu Zokusei no Mahoutsukai",
         "❓???? Muchuu sa, Kimi ni.",
@@ -206,10 +207,10 @@
         "❓???? Nyaight of the Living Cat",
         "❓???? Osomatsu-san 4th Season",
         "❓???? Private Tutor to the Duke's Daughter",
+        "❓???? Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
         "❓???? Rent-a-Girlfriend Season 4",
         "❓???? Secrets of the Silent Witch",
         "❓???? Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
-        "❓???? Shirohiyo - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
         "❓???? The Rising of the Shield Hero Season 4",
         "❓???? The Stunned Hero and the Assassin Princesses",
         "❓???? The Summer Hikaru Died",
@@ -217,7 +218,6 @@
         "❓???? Tsuyokute New Saga",
         "❓???? Turkey!",
         "❓???? Watari-kun no xx ga Houkai Sunzen",
-        "❓???? Welcome to the Outcast's Restaurant!",
         "❓???? Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru"
       ]
     }
