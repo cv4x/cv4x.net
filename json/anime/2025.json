@@ -164,21 +164,26 @@
       ],
       "月": [
         "❓1400 Dekin no Mogura: The Earthbound Mole",
+        "❓1430 Food Court de, Mata Ashita.",
         "❓1500 Binan Koukou Chikyuu Bouei-bu Haikara!",
         "❓1600 Sakamoto Days Part 2",
         "❓1630 Grand Blue Dreaming Season 2",
         "❓1800 Nyaight of the Living Cat"
       ],
       "火": [
+        "❓1500 A Couple of Cuckoos Season 2",
         "❓1530 Mattaku Saikin no Tantei to Kitara",
         "❓1600 Osomatsu-san 4th Season",
         "❓1729 Turkey!"
       ],
       "水": [
+        "❓1230 Clevatess",
+        "❓1400 Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
         "❓1545 Hell Teacher: Jigoku Sensei Nube",
         "❓1600 I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
         "❓1630 Kizu darake Seijo yori Houfuku wo Komete",
-        "❓1630 Mikadono Sanshimai wa Angai, Choroi."
+        "❓1630 Mikadono Sanshimai wa Angai, Choroi.",
+        "❓1815 Tsuyokute New Saga"
       ],
       "木": [
         "❓1400 Dr. Stone: Science Future Part 2",
@@ -187,6 +192,7 @@
         "❓1626 Dan Da Dan Season 2",
         "❓1630 Solo Camping for Two",
         "❓1700 Scooped Up by an S-Rank Adventurer!",
+        "❓1728 The Water Magician",
         "❓???? Muchuu sa, Kimi ni."
       ],
       "金": [
@@ -195,6 +201,7 @@
         "❓1530 Arknights: Rise from Ember",
         "❓1530 Call of the Night Season 2",
         "❓1600 Secrets of the Silent Witch",
+        "❓1700 Watari-kun's ****** Is about to Collapse",
         "❓1726 Rent-a-Girlfriend Season 4",
         "❓1753 Betrothed to My Sister's Ex"
       ],
@@ -206,38 +213,70 @@
         "❓1530 Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
         "❓1600 My Dress-Up Darling Season 2",
         "❓1630 The Fragrant Flower Blooms with Dignity",
-        "❓1655 The Summer Hikaru Died"
+        "❓1655 The Summer Hikaru Died",
+        "❓1700 Bad Girl",
+        "❓1730 With You and the Rain"
       ],
       "❓": [
         "❓???? 9: Ruler's Crown",
-        "❓???? A Couple of Cuckoos Season 2",
-        "❓???? Bad Girl",
-        "❓???? Clevatess",
         "❓???? Dotoli Munhwasenteo",
-        "❓???? Food Court de, Mata Ashita.",
         "❓???? Ginga Tokkyuu Milky☆Subway",
         "❓???? Harmony of Mille-Feuille",
-        "❓???? Mizu Zokusei no Mahoutsukai",
         "❓???? Private Tutor to the Duke's Daughter",
-        "❓???? Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
         "❓???? The Rising of the Shield Hero Season 4",
-        "❓???? Theatre of Darkness: Yamishibai 15",
-        "❓???? Tsuyokute New Saga",
-        "❓???? Watari-kun's ****** Is about to Collapse",
-        "❓???? With You and the Rain"
+        "❓???? Theatre of Darkness: Yamishibai 15"
       ]
     }
   },
-  "_秋": {
+  "秋": {
     "schedule": {
       "日": [],
       "月": [],
       "火": [],
       "水": [],
       "木": [],
-      "金": [],
-      "土": [],
-      "❓": []
+      "金": [
+        "❓1753 Sanda"
+      ],
+      "土": [
+        "❓0930 My Hero Academia Final Season"
+      ],
+      "❓": [
+        "❓???? 3-Z Ginpachi Sensei",
+        "❓???? A Gatherer's Adventure in Isekai",
+        "❓???? A Mangaka's Weirdly Wonderful Workplace",
+        "❓???? A Star Brighter Than the Sun",
+        "❓???? A Wild Last Boss Appeared!",
+        "❓???? Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+        "❓???? Ao no Orchestra 2nd Season",
+        "❓???? Campfire Cooking in Another World with My Absurd Skill Season 2",
+        "❓???? Chitose Is in the Ramune Bottle",
+        "❓???? Gnosia",
+        "❓???? Himekishi wa Barbaroi no Yome",
+        "❓???? Hyakushou Kizoku 3rd Season",
+        "❓???? Kagaku x Bouken Survival! 2nd Season",
+        "❓???? Kakuriyo: Bed and Breakfast for Spirits Season 2",
+        "❓???? Kikaijikake no Marie",
+        "❓???? Kingdom: Season 6",
+        "❓???? Let This Grieving Soul Retire Part 2",
+        "❓???? May I Ask for One Final Thing?",
+        "❓???? Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
+        "❓???? Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga",
+        "❓???? Ninja to Gokudou",
+        "❓???? One Punch Man Season 3",
+        "❓???? Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!",
+        "❓???? Pass the Monster Meat, Milady!",
+        "❓???? Sentenced to Be a Hero",
+        "❓???? Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+        "❓???? Shuumatsu Touring",
+        "❓???? Spy x Family Season 3",
+        "❓???? The Dark History of the Reincarnated Villainess",
+        "❓???? To Your Eternity Season 3",
+        "❓???? Tomodachi no Imouto ga Ore ni dake Uzai",
+        "❓???? Wandance",
+        "❓???? With You, Our Love Will Make It Through",
+        "❓???? Yano-kun's Ordinary Days"
+      ]
     }
   }
 }
