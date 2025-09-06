@@ -163,7 +163,8 @@
         "🟠1500 Gachiakuta",
         "🟠1530 Uglymug, Epicfighter",
         "🟠1530 Hotel Inhumans",
-        "💸1600 City The Animation"
+        "💸1600 City The Animation",
+        "🟠1945 Theatre of Darkness: Yamishibai 15"
       ],
       "月": [
         "🟦1230 Sword of the Demon Hunter: Kijin Gentosho",
@@ -230,66 +231,80 @@
       ],
       "❓": [
         "❓???? Harmony of Mille-Feuille",
-        "❓???? Neko Konogoro: Tenka Toitsu-hen",
-        "🟠???? Theatre of Darkness: Yamishibai 15"
+        "❓???? Neko Konogoro: Tenka Toitsu-hen"
       ]
     }
   },
   "秋": {
     "schedule": {
-      "日": [],
-      "月": [],
-      "火": [],
-      "水": [],
-      "木": [],
+      "日": [
+        "❓0830 Umamusume: Cinderella Gray Part 2",
+        "❓0900 Ao no Orchestra Season 2",
+        "❓1500 Alma-chan Wants to Have a Family!",
+        "❓1530 Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+        "❓1530 Vampires chan Can't Suck Properly",
+        "❓1545 One-Punch Man Season 3"
+      ],
+      "月": [
+        "❓1330 A Mangaka's Weirdly Wonderful Workplace",
+        "❓1500 Plus-sized Misadventures in Love!",
+        "❓1600 3-Z Ginpachi Sensei",
+        "❓1600 A Gatherer's Adventure in Isekai",
+        "❓1730 My Status as an Assassin Obviously Exceeds the Hero's"
+      ],
+      "火": [
+        "❓1500 Monster Strike: Deadverse Reloaded",
+        "❓1530 With You, Our Love Will Make It Through",
+        "❓1600 Campfire Cooking in Another World with My Absurd Skill Season 2",
+        "❓1729 Yano-kun's Ordinary Days"
+      ],
+      "水": [
+        "❓1400 Hero Without a Class: Who Even Needs Skills?!",
+        "❓1545 Wandance",
+        "❓1600 The Dark History of the Reincarnated Villainess",
+        "❓1645 Let's Play",
+        "❓???? Kakuriyo: Bed and Breakfast for Spirits 2"
+      ],
+      "木": [
+        "❓1556 A Star Brighter Than the Sun",
+        "❓1700 Potion, Wagami wo Tasukeru"
+      ],
       "金": [
+        "❓1040 Chikyuu no Latair",
+        "❓1354 Hyakushou Kizoku 3rd Season",
         "❓1500 Nohara Hiroshi: Hiru Meshi no Ryuugi",
-        "❓1753 Sanda"
+        "❓1530 My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+        "❓1600 May I Ask for One Final Thing?",
+        "❓1753 Ganglion",
+        "❓1753 Sanda",
+        "❓2200 Jochum Season 2"
       ],
       "土": [
         "❓0930 My Hero Academia Final Season",
-        "❓1530 Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu"
+        "❓1025 Kagaku x Bouken Survival! 2nd Season",
+        "❓1300 Inexpressive Kashiwada and Expressive Oota",
+        "❓1430 A Wild Last Boss Appeared!",
+        "❓1500 Spy x Family Season 3",
+        "❓1530 The Banished Court Magician Aims to Become the Strongest",
+        "❓1545 To Your Eternity Season 3",
+        "❓1610 Kingdom: Season 6",
+        "❓1630 Tojima Tanzaburo Wants to Be a Masked Rider",
+        "❓1730 Tomodachi no Imouto ga Ore ni dake Uzai"
       ],
       "❓": [
-        "❓???? 3-Z Ginpachi Sensei",
-        "❓???? A Gatherer's Adventure in Isekai",
-        "❓???? A Mangaka's Weirdly Wonderful Workplace",
-        "❓???? A Star Brighter Than the Sun",
-        "❓???? A Wild Last Boss Appeared!",
-        "❓???? Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
-        "❓???? Ao no Orchestra 2nd Season",
-        "❓???? Campfire Cooking in Another World with My Absurd Skill Season 2",
-        "❓???? Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+        "❓???? Bukiyou na Senpai.",
         "❓???? Chitose Is in the Ramune Bottle",
         "❓???? Gnosia",
-        "❓???? Himekishi wa Barbaroi no Yome",
-        "❓???? Hyakushou Kizoku 3rd Season",
-        "❓???? Inexpressive Kashiwada and Expressive Oota",
-        "❓???? Kagaku x Bouken Survival! 2nd Season",
-        "❓???? Kakuriyo: Bed and Breakfast for Spirits Season 2",
-        "❓???? Kikaijikake no Marie",
-        "❓???? Kingdom: Season 6",
         "❓???? Let This Grieving Soul Retire Part 2",
-        "❓???? May I Ask for One Final Thing?",
-        "❓???? Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga",
+        "❓???? Mechanical Marie",
         "❓???? Muzik Tiger In the Forest 2nd Season",
         "❓???? Ninja to Gokudou",
-        "❓???? One Punch Man Season 3",
         "❓???? Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!",
         "❓???? Pass the Monster Meat, Milady!",
-        "❓???? Sentenced to Be a Hero",
+        "❓???? Riding a Motorbike at the End of the World...",
+        "❓???? SI-VIS: The Sound of Heroes",
         "❓???? Shabake",
-        "❓???? Shibuya♡Hachi Part 4",
-        "❓???? Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-        "❓???? Shuumatsu Touring",
-        "❓???? Spy x Family Season 3",
-        "❓???? The Dark History of the Reincarnated Villainess",
-        "❓???? To Your Eternity Season 3",
-        "❓???? Tomodachi no Imouto ga Ore ni dake Uzai",
-        "❓???? Umamusume: Cinderella Gray Part 2",
-        "❓???? Wandance",
-        "❓???? With You, Our Love Will Make It Through",
-        "❓???? Yano-kun's Ordinary Days"
+        "❓???? Shibuya♡Hachi Part 4"
       ]
     }
   }
