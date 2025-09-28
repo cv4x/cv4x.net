@@ -63,10 +63,10 @@
                 let modified = false;
                 while ((match = twemoji.regex.exec(text))) {
                     const matched = match[0];
-                    if (match.index !== left) {
-                        fragment.appendChild(twemoji.createText(text.slice(left, index), true));
-                    }
                     if (emoji.includes(matched)) {
+                        if (match.index !== left) {
+                            fragment.appendChild(twemoji.createText(text.slice(left, match.index), true));
+                        }
                         appendEmoji(emojiMap, fragment, matched, options);
                         left = match.index + matched.length;
                         modified = true;

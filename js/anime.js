@@ -53,6 +53,10 @@
                 src: '/img/emoji/samsungtv+.png',
                 alt: 'Samsung TV Plus'
             },
+            '🌊': {
+                src: '/img/emoji/oceanveil.png',
+                alt: 'OceanVeil'
+            },
             '❓': {
                 src: '/img/emoji/unknown.png'
             },
