@@ -1,0 +1,111 @@
+{
+  "冬": {
+    "schedule": {
+      "日": [
+        "❓0900 You and I Are Polar Opposites",
+        "❓0930 Kaya-chan wa Kowakunai",
+        "❓1330 Hana-Kimi",
+        "❓1530 MF Ghost Season 3",
+        "❓1630 Goumon Baito-kun no Nichijou"
+      ],
+      "月": [
+        "❓1530 'Tis Time for \"Torture,\" Princess Season 2",
+        "❓???? Uso Tantei Tomanto"
+      ],
+      "火": [
+        "❓1500 Mayonaka Heart Tune",
+        "❓1500 There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
+        "❓1729 The Case Book of Arne"
+      ],
+      "水": [
+        "❓1530 Playing Death Games to Put Food on the Table"
+      ],
+      "木": [
+        "❓0400 #Kanagawa ni Sunderu Elf",
+        "❓1530 The Invisible Man and His Soon-to-Be Wife",
+        "❓1556 The Holy Grail of Eris",
+        "❓1626 Jujutsu Kaisen: The Culling Game Part 1",
+        "❓1728 Anyway, I'm Falling in Love with You. Season 2"
+      ],
+      "金": [
+        "❓1500 Frieren: Beyond Journey's End Season 2",
+        "❓1530 High School! Kimengumi (2026)",
+        "❓1600 Dark Moon: The Blood Altar Animation with ENHYPEN",
+        "❓1753 Fire Force Season 3 Part 2"
+      ],
+      "土": [
+        "❓0930 Blue Miburo Season 2",
+        "❓1530 Dead Account",
+        "❓???? Fate/strange Fake"
+      ],
+      "❓": [
+        "❓???? A Gentle Noble's Vacation Recommendation",
+        "❓???? Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru",
+        "❓???? Cardfight!! Vanguard: Divinez Genma Seisen-hen",
+        "❓???? Champignon Witch",
+        "❓???? Golden Kamuy: Saishuushou",
+        "❓???? Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+        "❓???? Hell Teacher: Jigoku Sensei Nube",
+        "❓???? Hell's Paradise Season 2",
+        "❓???? In the Clear Moonlit Dusk",
+        "❓???? Journal with Witch",
+        "❓???? Kirei ni Shitemoraemasu ka.",
+        "❓???? Kunon the Sorcerer Can See",
+        "❓???? Medalist Season 2",
+        "❓???? Misanthropic Teacher in Demi-Human Classroom.",
+        "❓???? My Hero Academia: Vigilantes Season 2",
+        "❓???? Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
+        "❓???? Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
+        "❓???? Omae wa Mada Gunma wo Shiranai: Reiwa-ban",
+        "❓???? Osananajimi to wa Love Comedy ni Naranai",
+        "❓???? Reincarnated as a Dragon Hatchling",
+        "❓???? Scum of the Brave",
+        "❓???? Sentenced to Be a Hero",
+        "❓???? Tamon's B-Side",
+        "❓???? The Daily Life of a Single 29-Year-Old Adventurer",
+        "❓???? The Darwin Incident",
+        "❓???? The Demon King's Daughter Is Too Kind!!",
+        "❓???? Trigun Stargaze",
+        "❓???? Yoroi Shin Den Samurai Troopers",
+        "❓???? Yuusha Party wo Oidasareta Kiyoubinbou",
+        "❓???? [Oshi No Ko] Season 3"
+      ]
+    }
+  },
+  "_春": {
+    "schedule": {
+      "日": [],
+      "月": [],
+      "火": [],
+      "水": [],
+      "木": [],
+      "金": [],
+      "土": [],
+      "❓": []
+    }
+  },
+  "_夏": {
+    "schedule": {
+      "日": [],
+      "月": [],
+      "火": [],
+      "水": [],
+      "木": [],
+      "金": [],
+      "土": [],
+      "❓": []
+    }
+  },
+  "_秋": {
+    "schedule": {
+      "日": [],
+      "月": [],
+      "火": [],
+      "水": [],
+      "木": [],
+      "金": [],
+      "土": [],
+      "❓": []
+    }
+  }
+}
